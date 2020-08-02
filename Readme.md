@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Алексей Гунчин](https://up.htmlacademy.ru/ecmascript/12/user/68098).
-* Наставник: `Неизвестно`.
+* Наставник: [Артем Приходько](https://up.htmlacademy.ru/ecmascript/12/user/1012525).
 
 ---
 
